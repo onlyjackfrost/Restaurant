@@ -8,11 +8,12 @@
 1. Clone this repo to your local folder
 ```git clone https://github.com/onlyjackfrost/Restaurant.git```
 
+2. Move to the folder
 
-2. install the packages and it's dependency
+2. Install the packages and it's dependency
 ```npm install ```
 
-3. start the web
+3. Start the web
 ```npm start```
 
 ## Feature

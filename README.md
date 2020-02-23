@@ -6,7 +6,7 @@
 ## Install
 
 1. Clone this repo to your local folder
-```git clone http:...```
+```git clone https://github.com/onlyjackfrost/Restaurant.git```
 
 
 2. install the packages and it's dependency
